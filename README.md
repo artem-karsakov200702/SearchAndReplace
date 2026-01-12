@@ -80,6 +80,8 @@ data_1.json
   }
 ]
 ```
+![Uploading image.png…]()
+
 
 Дополнительно
 
