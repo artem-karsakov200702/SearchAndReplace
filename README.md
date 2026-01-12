@@ -80,8 +80,8 @@ data_1.json
   }
 ]
 ```
-![Uploading image.png…]()
 
+<img width="689" height="790" alt="image" src="https://github.com/user-attachments/assets/fa694c35-14d8-4e9e-853b-e6d5756c0f1e" />
 
 Дополнительно
 
