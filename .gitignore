@@ -1,0 +1,33 @@
+# Зависимости и библиотеки
+json.hpp
+*.dll
+*.exe
+*.lib
+*.pdb
+
+# Генерируемые тестовые файлы
+data_*.json
+
+# Системные файлы Windows
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+
+# IDE и редакторы
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# Объекты компиляции
+*.o
+*.obj
+build/
+Debug/
+Release/
+
+# Логи и временные файлы
+*.log
+*.tmp
+.DS_Store
