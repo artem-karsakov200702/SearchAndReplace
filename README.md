@@ -80,6 +80,7 @@ data_1.json
   }
 ]
 ```
+<img width="550" height="871" alt="image" src="https://github.com/user-attachments/assets/f8864af4-79f9-4b1b-aee3-5dfa81a125d9" />
 
 
 Дополнительно
