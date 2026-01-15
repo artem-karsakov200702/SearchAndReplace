@@ -66,7 +66,7 @@ content — содержимое для поиска/замены
 Сохранение результатов: восстановление JSON-структуры с обновлённым content
 
 ## 4. Выдержки из интерфейсов функций и примеры использования
-```json
+```cpp
 vector<TextObject> extractTextObjects(const json& j);
 vector<size_t> findAllPositions(const string& text, const string& pattern, bool case_sensitive);
 string replaceAllOccurrences(const string& text, const string& from, const string& to, bool case_sensitive);
